@@ -3,6 +3,7 @@
 
 # Development Set Up - App & Server
 - How To Clone Project : `git clone https://github.com/yaffawijaya/my-expense-tracker.git`
+- Change Directory     : `cd my-expense-tracker`
 - Install npm          : `npm i` or `npm install`
 - Install angular      : `npm install -g @angular/cli`
 - Add angular material : `ng add @angular/material`
