@@ -48,7 +48,7 @@
 - Logout (Auto Logout in next 1 hour so don't worry 😊 )
 - You can check Expense Summary using BAR chart and PIE charts.
 - You can also Import Expense in CSV files.📩
-## Screenshots
+## Screenshots App Interface
 # Dashboard - View Expense
 
 ![image](https://github.com/grraghav120/expense-tracker/assets/96789493/47943654-8b88-4adb-afd2-2fc2ce7be0a2)
@@ -57,7 +57,7 @@
 ![image](https://github.com/grraghav120/expense-tracker/assets/96789493/16dc906d-8092-441d-9214-12b42d0404d3)
 
 
-# Home - Add Expense 
+# Home
 
 ![image](https://github.com/grraghav120/expense-tracker/assets/96789493/b8df0bfe-3d86-4666-a6a6-05f40b026471)
 
@@ -72,7 +72,7 @@
 ![image](https://github.com/grraghav120/expense-tracker/assets/96789493/a5d048f7-2adc-496b-9c4a-af5fdbf221b0)
 
 
-# Profile - User
+# User Profile
 
 ![image](https://github.com/grraghav120/expense-tracker/assets/96789493/dae4b7aa-e337-4584-803a-35cb064d1b5a)
 
