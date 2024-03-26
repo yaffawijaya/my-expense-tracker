@@ -3,7 +3,7 @@
 
 # Development Set Up - App & Server
 - How To Clone Project
-  testing
+  Here are the steps to clone the project:
 - 
 
 
