@@ -74,9 +74,6 @@
 
 ![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/User%20Profile%20ET.jpg)
 
-Update info
-
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/eb86dded-17bf-4546-9e7f-b6493370fbea)
 
 
 # Edit Expense
