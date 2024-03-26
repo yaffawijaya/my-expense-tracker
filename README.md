@@ -2,6 +2,9 @@
 ![Instagram Badge](https://img.shields.io/badge/yaffazka@gmail.com-follow%20on%20Gmail-blue?style=for-the-badge&logo=gmail)
 
 # Development Set Up - App & Server
+- How To Clone Project
+  testing
+- 
 
 
 # ExpenseTracker
