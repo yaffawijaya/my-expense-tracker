@@ -2,10 +2,10 @@
 ![Instagram Badge](https://img.shields.io/badge/yaffazka@gmail.com-follow%20on%20Gmail-blue?style=for-the-badge&logo=gmail)
 
 # Development Set Up - App & Server
-- How To Clone Project
-- Install npm
-- Install angular
-- Install bootstrap
+- How To Clone Project : `git clone https://github.com/yaffawijaya/my-expense-tracker.git`
+- Install npm : `npm i` or `npm install`
+- Install angular : `ng add @angular/material`
+- Install bootstrap : `npm install bootsrap`
 - run local host app -> 'ng serve' -> http://localhost:4200
 
 # Overview ExpenseTracker App
