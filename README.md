@@ -3,10 +3,11 @@
 
 # Development Set Up - App & Server
 - How To Clone Project : `git clone https://github.com/yaffawijaya/my-expense-tracker.git`
-- Install npm : `npm i` or `npm install`
-- Install angular : `ng add @angular/material`
-- Install bootstrap : `npm install bootsrap`
-- run local host app -> 'ng serve' -> http://localhost:4200
+- Install npm          : `npm i` or `npm install`
+- Install angular      : `npm install -g @angular/cli`
+- Add angular material : `ng add @angular/material`
+- Install bootstrap    : `npm install bootsrap`
+- run local host app   :`ng serve` -> http://localhost:4200
 
 # Overview ExpenseTracker App
 - Implemented robust APIs using Express.js and Node.js enabling smooth data retrieval and manipulation
