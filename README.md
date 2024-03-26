@@ -3,16 +3,16 @@
 
 # Development Set Up - App & Server
 - How To Clone Project
-- 
+- Install npm
+- Install angular
+- Install bootstrap
+- run local host app -> 'ng serve' -> http://localhost:4200
 
-
-# ExpenseTracker
-- Implemented robust APIs using Express.js and Node.js, enabling smooth data retrieval and manipulation.
-- Ensured secure access to sensitive features by implementing user authentication and authorization mechanisms in this application.
+# Overview ExpenseTracker App
+- Implemented robust APIs using Express.js and Node.js enabling smooth data retrieval and manipulation
+- Ensured secure access to sensitive features by implementing user authentication and authorization mechanisms in this application
 
 # About our Project
-
-
 <div align="left">
    <br>
    <img src="https://img.shields.io/github/repo-size/grraghav120/expense-tracker?style=for-the-badge" />
