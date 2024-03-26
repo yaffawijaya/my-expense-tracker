@@ -49,32 +49,30 @@
 - You can check Expense Summary using BAR chart and PIE charts.
 - You can also Import Expense in CSV files.📩
 ## Screenshots App Interface
-# Dashboard - View Expense
+# Dashboard 
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/47943654-8b88-4adb-afd2-2fc2ce7be0a2)
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/dashboard.jpg)
 
-
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/16dc906d-8092-441d-9214-12b42d0404d3)
 
 
 # Home - add expanse
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/b8df0bfe-3d86-4666-a6a6-05f40b026471)
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/home%20ET.jpg)
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/a8f01ea0-bbc0-4b92-ad0d-470579b96e68)
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/add%20ET.jpg)
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/b9cb123f-2def-4864-868b-999d38984348)
+
 
 # Expense Summary
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/915db7b6-4567-48bb-8147-21787da4d6d0)
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/summary.jpg)
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/a5d048f7-2adc-496b-9c4a-af5fdbf221b0)
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/summary%202.jpg)
 
 
 # User Profile
 
-![image](https://github.com/yaffawijaya/my-expense-tracker/blob/cc1917d781bbdd7ac100df9ddbe5c11508b4f2dd/Tech%20Writing/User%20Profile%20ET.jpg)
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/User%20Profile%20ET.jpg)
 
 Update info
 
@@ -83,32 +81,31 @@ Update info
 
 # Edit Expense
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/8f0af600-4311-4b63-9aff-95b20de67be4)
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/edit%20expanse.jpg)
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/02d2e634-cd47-4ed5-944d-77467afc6be7)
 
 # View Expense
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/2eb61c22-2b25-4c21-ace6-efb8e836e36a)
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/view%20expanse.jpg)
 
 
 
 # Import CSV File
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/90d27a08-51cb-4b3c-9dc8-843cdcbcee6f)
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/import%20csv.jpg)
 
 
 # Logout
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/04bc9557-aad8-4f5b-8ec1-077fa3262be9)
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/logout%20ET.jpg)
 
 
 # Login
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/7de69073-ad13-40a7-8d7e-8f1b3fd3f492)
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/login.jpg)
 
 # SignUp
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/33d3d042-5283-49c9-8a37-e5ee902d967a)
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/signup.jpg)
 
 # Logger
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/7e37a242-533a-41fc-b418-430eb77f4746)
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/9319e88f7cec2e986793ea0c41b60753c9cb693e/Tech%20Writing/logger.jpg)
 
 # Database
 
