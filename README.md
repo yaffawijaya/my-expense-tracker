@@ -1,5 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/Raghav-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raghavgarg2002/)
-![Instagram Badge](https://img.shields.io/badge/grraghav120@gmail.com-follow%20on%20Gmail-blue?style=for-the-badge&logo=gmail)
+[![Linkedin Badge](https://img.shields.io/badge/Raghav-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yaffazka-afazillah-wijaya-378098246/)
+![Instagram Badge](https://img.shields.io/badge/yaffazka@gmail.com-follow%20on%20Gmail-blue?style=for-the-badge&logo=gmail)
 
 # ExpenseTracker
 - Implemented robust APIs using Express.js and Node.js, enabling smooth data retrieval and manipulation.
