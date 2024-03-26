@@ -57,7 +57,7 @@
 ![image](https://github.com/grraghav120/expense-tracker/assets/96789493/16dc906d-8092-441d-9214-12b42d0404d3)
 
 
-# Home
+# Home - add expanse
 
 ![image](https://github.com/grraghav120/expense-tracker/assets/96789493/b8df0bfe-3d86-4666-a6a6-05f40b026471)
 
@@ -74,7 +74,7 @@
 
 # User Profile
 
-![image](https://github.com/grraghav120/expense-tracker/assets/96789493/dae4b7aa-e337-4584-803a-35cb064d1b5a)
+![image]([https://github.com/grraghav120/expense-tracker/assets/96789493/dae4b7aa-e337-4584-803a-35cb064d1b5a](https://github.com/yaffawijaya/my-expense-tracker/blob/cc1917d781bbdd7ac100df9ddbe5c11508b4f2dd/Tech%20Writing/User%20Profile%20ET.jpg))
 
 Update info
 
