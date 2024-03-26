@@ -74,7 +74,7 @@
 
 # User Profile
 
-![image]([https://github.com/grraghav120/expense-tracker/assets/96789493/dae4b7aa-e337-4584-803a-35cb064d1b5a](https://github.com/yaffawijaya/my-expense-tracker/blob/cc1917d781bbdd7ac100df9ddbe5c11508b4f2dd/Tech%20Writing/User%20Profile%20ET.jpg))
+![image](https://github.com/yaffawijaya/my-expense-tracker/blob/cc1917d781bbdd7ac100df9ddbe5c11508b4f2dd/Tech%20Writing/User%20Profile%20ET.jpg)
 
 Update info
 
