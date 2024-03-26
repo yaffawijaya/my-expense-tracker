@@ -24,10 +24,10 @@
   <img src="https://img.shields.io/github/last-commit/grraghav120/expense-tracker?style=for-the-badge" />
 </div>  
 
-# Quick Acces 😏
+# Quick Acces
 
-- Email 📧 - abc@gmail.com
-- password 🔑 - 12345678 🤫🤐
+- Email     : ilokuda@gmail.com
+- password  : ilokuda123
 
 
 # How to Use 👥 (Features of Application)
