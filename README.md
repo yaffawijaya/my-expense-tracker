@@ -1,6 +1,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/YaffazkaAWijaya-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yaffazka-afazillah-wijaya-378098246/)
 ![Instagram Badge](https://img.shields.io/badge/yaffazka@gmail.com-follow%20on%20Gmail-blue?style=for-the-badge&logo=gmail)
 
+# Development Set Up - App & Server
+
+
 # ExpenseTracker
 - Implemented robust APIs using Express.js and Node.js, enabling smooth data retrieval and manipulation.
 - Ensured secure access to sensitive features by implementing user authentication and authorization mechanisms in this application.
